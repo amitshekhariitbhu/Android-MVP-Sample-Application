@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-MVP-Sample-Application</string>
+    <string name="load_data">Load Data</string>
+</resources>
