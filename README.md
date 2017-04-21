@@ -2,6 +2,9 @@
 
 ### A basic sample android application to understand MVP in a very simple way. Just clone, build, run and understand MVP.
 
+[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
+[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
+
 <img src=https://raw.githubusercontent.com/amitshekhariitbhu/Android-MVP-Sample-Application/master/assets/mvp.png >
 
 ###[Check out Mindorks awesome open source projects here](https://mindorks.com/open-source-projects)
