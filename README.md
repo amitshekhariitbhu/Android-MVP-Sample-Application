@@ -2,7 +2,7 @@
 
 ### A basic sample android application to understand MVP in a very simple way. Just clone, build, run and understand MVP.
 
-## [My Personal Blog - amitshekhar.me](https://amitshekhar.me/blog) - High-quality content to learn Android concepts.
+## [Outcome School Blog](https://outcomeschool.com/blog) - High-quality content to learn Android concepts.
 
 <img src=https://raw.githubusercontent.com/amitshekhariitbhu/Android-MVP-Sample-Application/master/assets/mvp.png >
 
@@ -13,11 +13,11 @@ You can connect with me on:
 - [GitHub](https://github.com/amitshekhariitbhu)
 - [Facebook](https://www.facebook.com/amit.shekhar.iitbhu)
 
-[**Read all of my blogs here.**](https://amitshekhar.me/blog)
+[**Read all of our blogs here.**](https://outcomeschool.com/blog)
 
 ### License
 ```
-   Copyright (C) 2022 Amit Shekhar
+   Copyright (C) 2024 Amit Shekhar
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
